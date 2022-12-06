@@ -1,7 +1,7 @@
 # Hi, I'm Katie Foley
-- I'm based in Boston, MA
-- I'm currently working on a travel-planning app to help users plan trips to anywhere in the world all in one place
-- Outside of coding, I love to hike, stand-up paddleboard, read,  
+- <img src="https://cdn-icons-png.flaticon.com/512/50/50694.png" alt="T logo" width="24" height="24"> I'm based in Boston, MA
+- <img src="https://www.techregister.co.uk/wp-content/uploads/2022/03/Traveling-7-Emojis-Depicting-Landmarks-Cities-and-Suburbs.png" alt="plane icon" width="24" height="24"> I'm currently working on a travel-planning app to help users plan trips to anywhere in the world all in one place
+- Outside of coding, I love to hike, stand-up paddleboard, read, and work on perfecting a homemade latte <img src="https://cdn-icons-png.flaticon.com/512/2935/2935307.png" alt="latte" width="24" height="24">
 
 # Skills
 <p align="left">
