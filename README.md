@@ -17,5 +17,5 @@
 
 # Connect with Me
 - You can contact me at katief906@gmail.com
-- Github profile: github.com/katief906
-- LinkedIn profile: linkedin.com/in/kathleencfoley
+- Github profile: www.github.com/katief906
+- LinkedIn profile: www.linkedin.com/in/kathleencfoley
